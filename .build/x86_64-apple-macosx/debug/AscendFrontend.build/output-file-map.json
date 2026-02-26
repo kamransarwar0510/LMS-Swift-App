@@ -1,0 +1,117 @@
+{
+  "": {
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/master.swiftdeps"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/App/AscendFrontendApp.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AscendFrontendApp.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AscendFrontendApp.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AscendFrontendApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AscendFrontendApp.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AscendFrontendApp.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/App/RootTabView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RootTabView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RootTabView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RootTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RootTabView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RootTabView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Data/MockData.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MockData.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MockData.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MockData~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MockData.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MockData.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Data/Models.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Models.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Models.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Models.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Models.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/UI/Components.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Components.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Components.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Components~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Components.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Components.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/UI/HeroViews.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HeroViews.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HeroViews.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HeroViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HeroViews.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HeroViews.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/UI/RemoteImage.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RemoteImage.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RemoteImage.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RemoteImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RemoteImage.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/RemoteImage.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/UI/Theme.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Theme.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Theme.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Theme.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/Theme.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/AboutView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AboutView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AboutView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AboutView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AboutView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AboutView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/AcademicsView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AcademicsView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AcademicsView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AcademicsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AcademicsView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AcademicsView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/AlumniView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AlumniView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AlumniView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AlumniView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AlumniView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/AlumniView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/HomeView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HomeView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HomeView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HomeView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/HomeView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/MoreView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MoreView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MoreView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MoreView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MoreView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/MoreView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/NewsView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/NewsView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/NewsView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/NewsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/NewsView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/NewsView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/Views/StudentHubView.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/StudentHubView.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/StudentHubView.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/StudentHubView~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/StudentHubView.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/StudentHubView.dia"
+  },
+  "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/resource_bundle_accessor.d",
+    "object": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/macbookpro/Downloads/AscendSwiftUIFrontend/.build/x86_64-apple-macosx/debug/AscendFrontend.build/resource_bundle_accessor.dia"
+  }
+}
