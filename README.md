@@ -71,11 +71,3 @@ A premium, native iOS mobile experience for **Ascend University**. This project 
 Alternatively, you can open the project directly via the `Package.swift` file to explore the source code.
 
 ---
-
-## 📝 Notes
-*This is a frontend demonstration project. Interaction is handled via alerts and placeholder logic. No backend integration is required to run the demo.*
-
----
-
-## 🎓 Credits
-Inspired by the [Modern Campus Canvas](https://modern-campus-canvas.lovable.app) portal.
