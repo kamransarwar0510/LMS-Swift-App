@@ -15,7 +15,7 @@ let package = Package(
         .executableTarget(
             name: "AscendFrontend",
             path: ".",
-            exclude: ["HOW_TO_OPEN_IN_XCODE.txt"],
+            exclude: ["README.md"],
             sources: [
                 "App",
                 "Data",
